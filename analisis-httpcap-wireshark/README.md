@@ -5,7 +5,7 @@
 ## 1. Flow Graph Dari Request http.cap
 
 <div align="center">
-<img src="assets/httpflowgraph1.png">
+<img src="assets/httpflowgraph1.PNG">
 <p><strong>Gambar:</strong> 1.1 Flow Graph bagian 1</p>
 </div>
 
@@ -31,7 +31,7 @@
 8. **Detik 8**: Server memasukkan konten yang dihasilkan ke dalam pesan respons HTTP, termasuk status kode (misalnya, 200 OK jika berhasil) dan header respons (seperti jenis konten dan panjang konten).
 
 <div align="center">
-<img src="assets/httpflowgraph2.png">
+<img src="assets/httpflowgraph2.PNG">
 <p><strong>Gambar:</strong> 1.2 Flow Graph bagian 2 </p>
 </div>
 

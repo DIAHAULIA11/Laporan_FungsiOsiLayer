@@ -26,7 +26,7 @@ Tracert adalah alat untuk melihat rute atau jalan yang digunakan oleh data ketik
 ### 2.1 Ping www.detik.com
 
 <div align="center">
-<img src="assets/ping-detik.jpg">
+<img src="./assets/ping-detik.jpg">
 <p><strong>Gambar:</strong> Pinging www.detik.com</p>
 </div>
 
@@ -50,7 +50,7 @@ Hasil perintah `ping www.detik.com` menunjukkan informasi tentang koneksi ke sit
 ### 2.2 Tracert www.detik.com
 
 <div align="center">
-<img src="assets/tracert.jpg">
+<img src="./assets/tracert.jpg">
 <p><strong>Gambar:</strong> Tracert www.detik.com</p>
 </div>
 

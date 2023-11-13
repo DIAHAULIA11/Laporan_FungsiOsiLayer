@@ -1,9 +1,9 @@
-Nama : Diah Aulia Kusuma Putri
-NRP : 3122600008
-Kelas : 2 D4 IT A
-Mata Kuliah : Konsep Jaringan
-Dosen Pengampu : Dr. Ferry Astika Saputra S.T., M.Sc
-Pertemuan : Minggu 12
+    Nama            : Diah Aulia Kusuma Putri
+    NRP             : 3122600008
+    Kelas           : 2 D4 IT A
+    Mata Kuliah     : Konsep Jaringan
+    Dosen Pengampu  : Dr. Ferry Astika Saputra S.T., M.Sc
+    Pertemuan        : Minggu 12
 
 ### Traceroute ke 1.1.1.1
 

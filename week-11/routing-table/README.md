@@ -24,6 +24,13 @@ Untuk penugasan yang pertama yaitu menentukan IP sesuai dengan Router yang ada d
 <img src="./assets/physical.jpeg">
 <p><strong>Gambar :</strong> Physical Route</p>
 </div>
+
+### **Update Design Baru Physical**
+
+<div align="center">
+<img src="./assets/physical-new.jpg">
+<p><strong>Gambar :</strong> Physical Route</p>
+</div>
     
 Gambar di atas merupakan contoh simulasi Physical dari percobaan yang telah dilakukan. Dimana PC akan pertama kali dihubungkan dengan Switch lalu berpindah ke Router yang ada di Server dan akan siap untuk dikonfigurasikan.
 
@@ -31,6 +38,13 @@ Gambar di atas merupakan contoh simulasi Physical dari percobaan yang telah dila
 
 <div align="center">
 <img src="./assets/logicalRouterKeRouter.jpeg">
+<p><strong>Gambar :</strong> Logical Route</p>
+</div>
+
+### **Update Design Baru Logical**
+
+<div align="center">
+<img src="./assets/logicalRouterKeRouter-NEW.jpg">
 <p><strong>Gambar :</strong> Logical Route</p>
 </div>
 
